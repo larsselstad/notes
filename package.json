@@ -1,0 +1,25 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "Egen blogg greie",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsselstad/notes.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Lars Selstad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsselstad/notes/issues"
+  },
+  "homepage": "https://github.com/larsselstad/notes#readme",
+  "devDependencies": {
+    "marked": "^0.5.1"
+  }
+}
